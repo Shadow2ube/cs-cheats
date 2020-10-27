@@ -2,6 +2,8 @@
 
 This library has the primatives from computer science in python.
 
+[![HitCount](http://hits.dwyl.com/Shadow2ube/https://githubcom/Shadow2ube/cs-cheats.svg)](http://hits.dwyl.com/Shadow2ube/https://githubcom/Shadow2ube/cs-cheats)
+
 <br>
 <br>
 
